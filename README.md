@@ -1,4 +1,4 @@
-# Movie-Recommendation-System using Keras and Tensorflow
+# Movie-Recommendation-System using Keras and Tensorflow (Content-based (cognitive filtering))
 
 ![keras-tensorflow-logo](https://user-images.githubusercontent.com/69073063/123435623-0a6fa400-d5ce-11eb-8a93-bc401b76b080.jpg)
 
